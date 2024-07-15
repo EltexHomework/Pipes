@@ -1,4 +1,4 @@
-# # Задание 12 - Каналы 
+# Задание 12 - Каналы 
 ## Сборщик проекта
 В качестве сборщика проекта используется Makefile. Для компиляции проекта необходимо ввести следующую команду в корне проекта:
 ``` bash
@@ -47,11 +47,15 @@ thenorth:/home/thenorth/eltex/Pipes$
 
 ## Демонстрация работы программ
 ### Задание №1
+![task1](https://github.com/user-attachments/assets/ad6cad78-ed02-4965-855f-8a2aac8e5920)
 
 ### Задание №2
+![task2](https://github.com/user-attachments/assets/102b9492-b5ca-45ea-bd80-5e60f2d5a5bf)
 
 ### Задание №3
+![task3](https://github.com/user-attachments/assets/05e80deb-5089-4468-ab4e-834466d5b79f)
 
 ## Тест на утечку памяти
 ### Задание №3
+![image](https://github.com/user-attachments/assets/93a30d2a-debd-4ade-a208-c62dcb111938)
 
